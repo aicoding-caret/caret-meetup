@@ -6,6 +6,7 @@
 - **질의응답**: Teams 채팅으로 질문을 받아 검토 후 일괄 답변
 
 ## 2. 발표 내용 (Luke Yang)
+- **발제 녹화**: https://www.youtube.com/watch?v=bnTOm7WHsbE
 
 ### 2.1. AI 코딩 시장의 현황
 
