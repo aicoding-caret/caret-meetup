@@ -11,6 +11,7 @@
 
 ## 2. 발표 내용 (Luke Yang)
 - **발제 녹화**: https://www.youtube.com/watch?v=bnTOm7WHsbE
+- **발제 자료**: https://github.com/aicoding-caret/caret-meetup/blob/main/01-regular-meetup-20250715/01-regular-meetup-caretive-presentation-20250715.pdf
 
 ### 2.1. AI 코딩 시장의 현황
 
